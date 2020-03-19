@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+	<Employee empId="100" type="admin">
+		<firstname>Ranjith</firstname>
+		<lastname>Sekar</lastname>
+		<age>30</age>
+		<address>Chennai</address>
+		<email>ranjith@gmail.com</email>
+	</Employee>
+	<Employee empId="200" type="manager">
+		<firstname>Bala</firstname>
+		<lastname>Kumar</lastname>
+		<age>32</age>
+		<address>Bangalore</address>
+		<email>bala@gmail.com</email>
+	</Employee>
+	<Employee empId="300" type="engineer">
+		<firstname>Ritish</firstname>
+		<lastname>Marsh</lastname>
+		<age>52</age>
+		<address>Kolkata</address>
+		<email>ritish@gmail.com</email>
+	</Employee>
+	<Employee empId="400" type="admin">
+		<firstname>Ram</firstname>
+		<lastname>Chandran</lastname>
+		<age>41</age>
+		<address>Mumbai</address>
+		<email>ram@gmail.com</email>
+	</Employee>
+	<Employee empId="150" type="engineer">
+		<firstname>Sanjeev</firstname>
+		<lastname>Gupta</lastname>
+		<age>30</age>
+		<address>Chennai</address>
+		<email>sangeev@gmail.com</email>
+	</Employee>
+	<Employee empId="500" type="engineer" specialist="true">
+		<firstname lang="english" native="north">Ranjeev</firstname>
+		<lastname>Gupta</lastname>
+		<age>30</age>
+		<address>Chennai</address>
+		<email>ranjeev@gmail.com</email>
+	</Employee>
+	<Employee empId="600" type="engineer" specialist="false">
+		<firstname lang="hindi" native="south">Suresh</firstname>
+		<lastname>Gupta</lastname>
+		<age>30</age>
+		<address>Chennai</address>
+		<email>suresh@gmail.com</email>
+	</Employee>
+</Employees>
