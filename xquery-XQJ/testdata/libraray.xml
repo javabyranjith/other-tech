@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<books dept="physics">
+		<book id="PHY00001" category="Atomic">
+			<name>Concepts of Physics</name>
+			<author>H.C.Verma</author>
+			<isbn>8177091875</isbn>
+			<price>$15</price>
+			<publisher>Tata</publisher>
+		</book>
+		<book id="PHY00002" category="Natural">
+			<name>Handbook of Physics</name>
+			<author>Nipendra Bhatnagar</author>
+			<isbn>8177091876</isbn>
+			<price>$20</price>
+			<publisher>Wiley</publisher>
+		</book>
+		<book id="PHY00003" category="Natural">
+			<name>Handbook of Physics II</name>
+			<author>Nipendra Bhatnagar</author>
+			<isbn>8177091886</isbn>
+			<price>$25</price>
+			<publisher>Wiley Publ.</publisher>
+		</book>
+	</books>
+	<books dept="chemistry">
+		<book id="CHE00001" category="Organic">
+			<name>Chemistry Formulae And Definitions</name>
+			<author>Ramanand Thakur</author>
+			<isbn>8177091878</isbn>
+			<price>$20</price>
+			<publisher>ChemWorld</publisher>
+		</book>
+		<book id="CHE00002" category="Inorganic">
+			<name>Handbook of Chemistry</name>
+			<author>Hansraj Modi</author>
+			<isbn>8177091879</isbn>
+			<price>$35</price>
+			<publisher>BetaBooks</publisher>
+		</book>
+		<book id="CHE00003" category="Inorganic">
+			<name>Handbook of Chemistry II</name>
+			<author>Hansraj Modi</author>
+			<isbn>8177091889</isbn>
+			<price>$38</price>
+			<publisher>Beta Marketing</publisher>
+		</book>
+	</books>
+</library>
