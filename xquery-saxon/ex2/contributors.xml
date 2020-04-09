@@ -1,0 +1,14 @@
+<contributors>
+    <contributor>
+        <author-name>John Doe</author-name>
+        <bio>John is a software developer interested in the semantic web.</bio>
+        <location>New York, NY</location>
+        <image-url>http://www.example.com/images/john-doe.jpg</image-url>
+    </contributor>
+    <contributor>
+        <author-name>Sue Anderson</author-name>
+        <bio>Sue is an XML consultant and is interested in XQuery.</bio>
+        <location>San Francisco, CA</location>
+        <image-url>http://www.example.com/images/sue-anderson.jpg</image-url>
+    </contributor>
+</contributors>

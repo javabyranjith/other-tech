@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query version="1.0">
+	<AND>
+		<zone>
+			<field name="TXT" />
+			<term stem="1">motor</term>
+		</zone>
+		<zone>
+			<field name="DSC" />
+			<term stem="1">device</term>
+		</zone>
+	</AND>
+</query>
