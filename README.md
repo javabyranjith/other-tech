@@ -5,3 +5,4 @@
   4. JSON
   5. GSON Library
   6. Jackson Library
+  7. XQuery
